@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Science, Web Scraping, Full Stack Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Educational Data Science
-- 📫 Reach me at rahmantaufik27@gmail.com
+- 📫 Reach me at rahmantaufik27@gmail.com, @ertaufik
