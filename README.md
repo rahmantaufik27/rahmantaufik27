@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahmantaufik27
-- 👀 I’m interested in Data Science, Web Scraping, Full Stack Development
+- 👀 I’m interested in Data Science, Data Analyst, Artificial Intelligent, Web Scraping, Full Stack Development, Educational Technology
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Educational Data Science
-- 📫 Reach me at rahmantaufik27@gmail.com, @ertaufik
+- 💞️ I’m looking to collaborate on Educational Data Science Research, Data Analyst Project, or Another IT Development Project
+- 📫 Reach me at rahmantaufik27@gmail.com, @ertaufik (twitter)
