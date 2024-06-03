@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahman Taufik @rahmantaufik27
-- 👀 I’m interested in Data Science, Data Analyst, Data Engineering, Artificial Intelligent, Full Stack Development
+- 👀 I’m interested in Data Science, Data Analysis, Data Engineering, Artificial Intelligent, Full Stack Development
 - 🌱 I’m currently a Lecturer and a Programmer
-- 💞️ I’m looking to collaborate on Data Science Research/Project, Data Analyst Research/Project, or other IT Development Research/Project
+- 💞️ I’m looking to collaborate on Data Science, Data Analysis, or another IT Development Research/Project
 - 📫 Reach me at rahmantaufik27@gmail.com (email), @ertaufik (twitter), @rahmantaufik27 (medium)
